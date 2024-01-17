@@ -1,0 +1,15 @@
+.item {
+  margin: 0 10px 5px 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(247, 247, 247);
+}
+
+.price {
+  color: red;
+}
+
+.image {
+  height: 100px;
+}

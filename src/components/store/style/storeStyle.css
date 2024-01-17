@@ -1,0 +1,8 @@
+.menu {
+  display: flex;
+  justify-content: flex-end;
+}
+
+h2, .btn {
+  text-transform: uppercase;
+}
